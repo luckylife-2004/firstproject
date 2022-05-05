@@ -53,6 +53,7 @@ padding-bottom:20px;
 	text-align: center;
 	text-decoration: none;
 	width: 90px;
+	padding-right:3px;
 }
 #header div ul li a:hover {
 	color: #82ae3f;
